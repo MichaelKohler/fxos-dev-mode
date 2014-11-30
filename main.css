@@ -1,0 +1,44 @@
+
+
+body {
+	background-color: #E6E6E6;
+	font-size: 15px;
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+button {
+	padding: 10px 40px;
+	border: 0;
+    margin: 10px 1px;
+    cursor: pointer;
+    text-decoration: none;
+    outline: 0!important;
+    box-shadow: inset 1px 1px rgba(255, 255, 255, 0.21);
+    letter-spacing: 0.02em;
+    text-transform:uppercase;
+    width: 100%;
+    background-color: #0095DD;
+    color: #FFF;
+    border: 1px solid #7EB1F7;
+}
+
+.prefEnabled {
+    background-color: #FF9500;
+    color: #FFF;
+    border: 1px solid #E07224;
+}
+
+.button-red {
+	background-color: #E65050;
+	color: #FFF;
+	border: 1px solid #E65050;
+}
+
+#restore-section {
+	margin-top: 5em;
+}

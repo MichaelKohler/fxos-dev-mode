@@ -1,0 +1,16 @@
+{
+  "name": "Firefox OS Dev Mode",
+  "description": "App to easily go into developer mode and disbale the screen timeout temporarily",
+  "launch_path": "/index.html",
+  "icons": {
+  },
+  "developer": {
+    "name": "Michael Kohler",
+    "url": "http://www.michaelkohler.info"
+  },
+  "default_locale": "en",
+  "type": "certified",
+  "permissions": {
+      "settings": {}
+  }
+}
