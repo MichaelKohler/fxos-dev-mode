@@ -11,6 +11,6 @@
   "default_locale": "en",
   "type": "certified",
   "permissions": {
-      "settings": {}
+      "settings": { "access": "readwrite" }
   }
 }
